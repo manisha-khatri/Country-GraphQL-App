@@ -1,3 +1,11 @@
 Open Questions:-
 
 1. what is StateFlow used in viewmodel?
+
+
+
+Todo:
+- Tests
+- StateFlow
+- Dao
+- Retrofit
